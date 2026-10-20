@@ -1,0 +1,4 @@
+this project is afinancial management system 
+.it helps the users traCKK INCOME, 
+expence and sasving user can paln monthly budeget
+ and manage sprending this bproject is designed for better financial management
